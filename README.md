@@ -9,6 +9,6 @@
 4. **Auto Proxy**
 
 ## Contact:
-If you want to buy this tool, contact me via [Telegram](https://t.me/alexrony21).
+If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21).
 
 Thanks!
