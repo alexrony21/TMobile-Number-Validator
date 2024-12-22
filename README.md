@@ -1,6 +1,6 @@
 # T-Mobile Valid Number Checker
 
-![image](image.jpg)
+![image](https://raw.githubusercontent.com/alexrony21/T-Mobile-Valid-Number-Checker/refs/heads/main/T-Mobile_Number_Validator.png)
 
 ## Features:
 1. **Fast Checking**
