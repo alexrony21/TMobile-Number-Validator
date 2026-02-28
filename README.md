@@ -11,8 +11,12 @@
 4. **Unlimited Checking** – No restrictions on the number of validations.  
 5. **Free Lifetime Update** – Enjoy continuous improvements at no extra cost. 
 
-# Contact:
-If you want to purchase this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+## 🤝 Get in Touch
+
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
